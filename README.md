@@ -1,67 +1,67 @@
 # certifications
 This repository contains all the code with respect to certifications mentioned in the read.me file
 
-|Sr. No|	|Course Name|
-----------------------------------------------
-|1|	|Become an Android Developer from Scratch|
-|2|	|The Complete iOS 10 Developer - Create Real Apps in Swift 3|
-|3|	|Deep Learning Prerequisites: The Numpy Stack in Python|
-|4|	|AWS Concepts|
-|5|	|Introduction to Cloud Computing|
-|6|	|SEO Training Course by Moz|
-|7|	|Introductory Photography Course|
-|8|	|7 Scientifically Proven Steps to Increase Your Influence|
-|9|	|Meet your brain: a short introduction to neuroscience|
-|10|	|Google IT Support Professional Certificate|
-|11|	|Deep Learning|
-|12|	|Machine Learning|
-|13|	|Data Structures and Algorithms|
-|14|	|Introduction to Discrete Mathematics for Computer Science|
-|15|	|IBM Data Science Professional Certificate|
-|16|	|Applied Data Science with Python|
-|17|	|Statistics with R|
-|18|	|Business Statistics and Analysis|
-|19|	|Full-Stack Web Development with React|
-|20|	|Web Applications for Everybody|
-|21|	|Python for Everybody|
-|22|	|Data Engineering on Google Cloud Platform|
-|23|	|Cloud Computing|
-|24|	|G Suite Administrator Fundamentals|
-|25|	|Business Foundations|
-|26|	|Excel Skills for Business|
-|27|	|AI For Everyone|
-|28|	|Digital Marketing|
-|29|	|Search Engine Optimization (SEO)|
-|30|	|Inbound Marketing Certification course|
-|31|	|Content Marketing Certification course|
-|32|	|Email Marketing Certification course|
-|33|	|Inbound Sales Certification course|
-|34|	|Sales Enablement Certification course|
-|35|	|HubSpot Design Certification course|
-|36|	|Growth-Driven Design Agency Certification course|
-|37|	|HubSpot Sales Software Certification course|
-|38|	|Google Analytics Certification|
-|39|	|Learn Online Marketing - Free Training Course From Google|
-|40|	|Google AdWords certification|
-|41|	|C# Fundamentals for Absolute Beginners|
-|42|	|ASP.NET Core - Beginner|
-|43|	|Getting Started with Microsoft PowerShell|
-|44|	|JavaScript Fundamentals for Absolute Beginners|
-|45|	|SQL Database Fundamentals|
-|46|	|Windows Server Administration Fundamentals|
-|47|	|HTML5 & CSS3 Fundamentals: Development for Absolute Beginners|
-|48|	|Networking Fundamentals|
-|49|	|SAP courses|
-|50|	|Course: CS405: ARTIFICIAL INTELLIGENCE|
-|51|	|Course: BUS401: Management Leadership|
-|52|	|Course: BUS203: Principles of Marketing|
-|53|	|Course: SALES103: Public Speaking for Sales|
-|54|	|Course: PRDV251: HTML and CSS for Beginners|
-|55|	|Course: CS107: C++ Programming|
-|56|	|Course: CS409: Cryptography|
-|57|	|Course: POLSC101: Introduction to Political Science|
-|58|	|CODING FOR DESIGNERS|
-|59|	|UX FUNDAMENTALS|
-|60|	|MODERN WEB DESIGN|
-|61|	|RESPONSIVE WEB DESIGN FUNDAMENTALS|
-|62|	|CREATING A WORDPRESS THEME|
+| Sr. No | Course Name                                                   | Rating | Provider  | Certificate | Price | Course Content                                                                                                                        | Link       | Status      | Completion Status |
+|--------|---------------------------------------------------------------|--------|-----------|-------------|-------|---------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|-------------------|
+| 1      | Become an Android Developer from Scratch                      | 4.4/5  | Udemy     | Yes         | FREE  | Simply the best place to start learning Android Development.                                                                          | Learn More | Not Started |                   |
+| 2      | The Complete iOS 10 Developer - Create Real Apps in Swift 3   | 4.7/5  | Udemy     | Yes         | FREE  | Learn iOS 10 and Swift 3 & become an app entrepreneur. Includes $1200 of AWS service, tvOS and Sketch training.                       | Learn More | Not Started |                   |
+| 3      | Deep Learning Prerequisites: The Numpy Stack in Python        | 4.6/5  | Udemy     | Yes         | FREE  | The Numpy, Scipy, Pandas, and Matplotlib stack: prep for deep learning, machine learning, and artificial intelligence                 | Learn More | Started     | 5/38              |
+| 4      | AWS Concepts                                                  | 4.6/5  | Udemy     | Yes         | FREE  | This course is to provide a simple, conceptual introduction to the concepts of Cloud Computing and Amazon Web Services.               | Learn More | Not Started |                   |
+| 5      | Introduction to Cloud Computing                               | 4.4/5  | Udemy     | Yes         | FREE  | Cloud Computing, Service Models, Essential Characteristics, Deployment Models                                                         | Learn More | Not Started |                   |
+| 6      | SEO Training Course by Moz                                    | 4.3/5  | Udemy     | Yes         | FREE  | Learn SEO tips and tricks in this SEO training course from Moz                                                                        | Learn More | Not Started |                   |
+| 7      | Introductory Photography Course                               | 4.7/5  | Udemy     | Yes         | FREE  | The fastest way to get off 'Auto' mode and unlock the creative potential of your camera.                                              | Learn More | Not Started |                   |
+| 8      | 7 Scientifically Proven Steps to Increase Your Influence      | 4.5/5  | Udemy     | Yes         | FREE  | Increase your impact, influence and income using 7 science based steps.                                                               | Learn More | Not Started |                   |
+| 9      | Meet your brain: a short introduction to neuroscience         | 4.6/5  | Udemy     | Yes         | FREE  | Discover how 4 brainstructures control our emotions and decisions                                                                     | Learn More | Not Started |                   |
+| 10     | Google IT Support Professional Certificate                    | 4.4/5  | Coursera  | Yes         | FREE  | Troubleshooting and Customer Service, Networking, Operating Systems, System administration, Automation, and Security.                 | Learn More | Not Started |                   |
+| 11     | Deep Learning                                                 | 4.9/5  | Coursera  | Yes         | FREE  | Deep Learning Specialization. Master Deep Learning, and Break into AI                                                                 | Learn More | Not Started |                   |
+| 12     | Machine Learning                                              | 4.9/5  | Coursera  | Yes         | FREE  | Machine learning is the science of getting computers to act without being explicitly programmed.                                      | Learn More | Not Started |                   |
+| 13     | Data Structures and Algorithms                                | 4.7/5  | Coursera  | Yes         | FREE  | Master Algorithmic Programming Techniques.                                                                                            | Learn More | Not Started |                   |
+| 14     | Introduction to Discrete Mathematics for Computer Science     | 4.4/5  | Coursera  | Yes         | FREE  | Build a Foundation for Your Career in IT.                                                                                             | Learn More | Not Started |                   |
+| 15     | IBM Data Science Professional Certificate                     | 4.6/5  | Coursera  | Yes         | FREE  | Kickstart your Career in Data Science & ML.                                                                                           | Learn More | Not Started |                   |
+| 16     | Applied Data Science with Python                              | 4.5/5  | Coursera  | Yes         | FREE  | Gain new insights into your data.                                                                                                     | Learn More | Not Started |                   |
+| 17     | Statistics with R                                             | 4.7/5  | Coursera  | Yes         | FREE  | Master Statistics with R.                                                                                                             | Learn More | Not Started |                   |
+| 18     | Business Statistics and Analysis                              | 4.7/5  | Coursera  | Yes         | FREE  | Build Data Analysis and Business Modeling Skills.                                                                                     | Learn More | Not Started |                   |
+| 19     | Full-Stack Web Development with React                         | 4.8/5  | Coursera  | Yes         | FREE  | Build Complete Web and Hybrid Mobile Solutions.                                                                                       | Learn More | Not Started |                   |
+| 20     | Web Applications for Everybody                                | 4.8/5  | Coursera  | Yes         | FREE  | Build dynamic database-backed web sites.                                                                                              | Learn More | Not Started |                   |
+| 21     | Python for Everybody                                          | 4.8/5  | Coursera  | Yes         | FREE  | Learn to Program and Analyze Data with Python.                                                                                        | Learn More | Not Started |                   |
+| 22     | Data Engineering on Google Cloud Platform                     | 4.6/5  | Coursera  | Yes         | FREE  | Data Engineering on Google Cloud Platform. Launch your career in Data Engineering.                                                    | Learn More | Not Started |                   |
+| 23     | Cloud Computing                                               | 4.5/5  | Coursera  | Yes         | FREE  | Clouds, Distributed Systems, Networking.                                                                                              | Learn More | Not Started |                   |
+| 24     | G Suite Administrator Fundamentals                            | 4.7/5  | Coursera  | Yes         | FREE  | G Suite Administrator Fundamentals serves as the starting place for any new G Suite admin                                             | Learn More | Not Started |                   |
+| 25     | Business Foundations                                          | 4.7/5  | Coursera  | Yes         | FREE  | Build a foundation of core business skills in marketing, finance, accounting and operations.                                          | Learn More | Not Started |                   |
+| 26     | Excel Skills for Business                                     | 4.9/5  | Coursera  | Yes         | FREE  | Learn Excel Skills for Business.                                                                                                      | Learn More | Not Started |                   |
+| 27     | AI For Everyone                                               | 4.8/5  | Coursera  | Yes         | FREE  | AI is not only for engineers. If you want your organization to become better at using AI                                              | Learn More | Not Started |                   |
+| 28     | Digital Marketing                                             | 4.6/5  | Coursera  | Yes         | FREE  | Drive Customer Behavior Online. A six-course overview of the latest digital marketing skills                                          | Learn More | Not Started |                   |
+| 29     | Search Engine Optimization (SEO)                              | 4.6/5  | Coursera  | Yes         | FREE  | Become an SEO Expert. Master search engine optimization tools and strategies                                                          | Learn More | Not Started |                   |
+| 30     | Inbound Marketing Certification course                        | 4.6/5  | HubSpot   | Yes         | FREE  | Inbound Marketing Fundamentals, Attracting Strangers to Your Business, Convereting your visitors, Closing leads, Delighting Customers | Learn More | Not Started |                   |
+| 31     | Content Marketing Certification course                        | 4.6/5  | HubSpot   | Yes         | FREE  | Power your business with remarkable content, Effectively Promote Content,                                                             | Learn More | Not Started |                   |
+| 32     | Email Marketing Certification course                          | 4.5/5  | HubSpot   | Yes         | FREE  | Learn the advanced email marketing strategy and tactics that grow your business, and your career.                                     | Learn More | Not Started |                   |
+| 33     | Inbound Sales Certification course                            | 4.5/5  | HubSpot   | Yes         | FREE  | Get certified. Grow your pipeline. Close more deals. Grow your career.                                                                | Learn More | Not Started |                   |
+| 34     | Sales Enablement Certification course                         | 4.4/5  | HubSpot   | Yes         | FREE  | learn how to align marketing and sales for optimal efficiency, strategies and tactics.                                                | Learn More | Not Started |                   |
+| 35     | HubSpot Design Certification course                           | 4.3/5  | HubSpot   | Yes         | FREE  | Learn the art and science of world-class HubSpot templates. Get certified.                                                            | Learn More | Not Started |                   |
+| 36     | Growth-Driven Design Agency Certification course              | 4.4/5  | HubSpot   | Yes         | FREE  | Your (free) blueprint for transforming your agency and boosting client results.                                                       | Learn More | Not Started |                   |
+| 37     | HubSpot Sales Software Certification course                   | 4.4/5  | HubSpot   | Yes         | FREE  | Training on HubSpot CRM & HubSpot Sales Tools                                                                                         | Learn More | Not Started |                   |
+| 38     | Google Analytics Certification                                | 4.5/5  | Google    | Yes         | FREE  | Google Analytics for Beginners, Advanced, Analytics 360, Ecommerce Analytics, Google Tag Manager                                      | Learn More | Not Started |                   |
+| 39     | Learn Online Marketing - Free Training Course From Google     | 4.6/5  | Google    | Yes         | FREE  | Digital Garage is your one-stop shop for mastering digital marketing.                                                                 | Learn More | Not Started |                   |
+| 40     | Google AdWords certification                                  | 4.4/5  | Google    | Yes         | FREE  | Advertising concepts, Google AdWords, Programmatic buying, and DoubleClick                                                            | Learn More | Not Started |                   |
+| 41     | C# Fundamentals for Absolute Beginners                        | 5/5    | Microsoft | Yes         | FREE  | How to write C#code, debug features, explore customizations, and much more                                                            | Learn More | Not Started |                   |
+| 42     | ASP.NET Core - Beginner                                       | 5/5    | Microsoft | Yes         | FREE  | Learn How to build an ASP.NET Core app with Razor Pages MVC. Plus, get the details on logging and diagnostics.                        | Learn More | Not Started |                   |
+| 43     | Getting Started with Microsoft PowerShell                     | 5/5    | Microsoft | Yes         | FREE  | Explore how to use PowerShell., how PowerShell works                                                                                  | Learn More | Not Started |                   |
+| 44     | JavaScript Fundamentals for Absolute Beginners                | 4/5    | Microsoft | Yes         | FREE  | Learn JavaScript exploring expressions, operators, and arrays, to options, classes, functions, and actually writing code              | Learn More | Not Started |                   |
+| 45     | SQL Database Fundamentals                                     | 5/5    | Microsoft | Yes         | FREE  | Creating tables, inserting data, data manipulation, optimize database performance, and work with non-relational data.                 | Learn More | Not Started |                   |
+| 46     | Windows Server Administration Fundamentals                    | 5/5    | Microsoft | Yes         | FREE  | Server installation, server roles, Active Directory, storage, server performance management, and server maintenance.                  | Learn More | Not Started |                   |
+| 47     | HTML5 & CSS3 Fundamentals: Development for Absolute Beginners | 5/5    | Microsoft | Yes         | FREE  | Explore HTML5 and get CSS3 training that includes web principles, writing code, and much more!                                        | Learn More | Not Started |                   |
+| 48     | Networking Fundamentals                                       | 5/5    | Microsoft | Yes         | FREE  | Find out how to put the many pieces together to build a functional and secure network.                                                | Learn More | Not Started |                   |
+| 49     | SAP courses                                                   | 4.5/5  | openSAP   | Yes         | FREE  | All the latest technologies and services in one intelligent system Learn more today with openSAP                                      | Learn More | Not Started |                   |
+| 50     | Course: CS405: ARTIFICIAL INTELLIGENCE                        | 4.5/5  | Saylor    | Yes         | FREE  | artificial intelligence (AI),logic, search, game playing, machine learning, natural language                                          | Learn More | Not Started |                   |
+| 51     | Course: BUS401: Management Leadership                         | 4.1/5  | Saylor    | Yes         | FREE  | Leadership Theory, Management and Decision-Making, Formal Authority, Managing Groups and Teams                                        | Learn More | Not Started |                   |
+| 52     | Course: BUS203: Principles of Marketing                       | 4.3/5  | Saylor    | Yes         | FREE  | How to think like a marketer, discovering that the focus of marketing has always been on the consumer.                                | Learn More | Not Started |                   |
+| 53     | Course: SALES103: Public Speaking for Sales                   | 4.3/5  | Saylor    | Yes         | FREE  | Sales Positions, Ethics in Professional Sales, Sales Presentations, Sales Teams                                                       | Learn More | Not Started |                   |
+| 54     | Course: PRDV251: HTML and CSS for Beginners                   | 4.5/5  | Saylor    | Yes         | FREE  | basics of HTML and CSS, Content Management System, produce complicated web-based projects.                                            | Learn More | Not Started |                   |
+| 55     | Course: CS107: C++ Programming                                | 4.7/5  | Saylor    | Yes         | FREE  | Introduction, Setup, mechanics of editing and compiling programs in C++                                                               | Learn More | Not Started |                   |
+| 56     | Course: CS409: Cryptography                                   | 4.8/5  | Saylor    | Yes         | FREE  | Ciphers, MD5 and SHA-1 hash, RSA algorithm, Digital Signature and Entity Authentication                                               | Learn More | Not Started |                   |
+| 57     | Course: POLSC101: Introduction to Political Science           | 4.1/5  | Saylor    | Yes         | FREE  | Foundational Concepts of Politics, Public Opinion, : Ideologies, State, International Politics                                        | Learn More | Not Started |                   |
+| 58     | CODING FOR DESIGNERS                                          | 4.3/5  | Gymnasium | Yes         | FREE  | How to translate graphic design to the web. Create A Complete Website With Twitter Bootstrap                                          | Learn More | Not Started |                   |
+| 59     | UX FUNDAMENTALS                                               | 4.4/5  | Gymnasium | Yes         | FREE  | How to conduct basic user research and create user personas, and Best Practices                                                       | Learn More | Not Started |                   |
+| 60     | MODERN WEB DESIGN                                             | 4.5/5  | Gymnasium | Yes         | FREE  | Introduction to front-end development for the web, Mark up content with HTML, use CSS as a design tool                                | Learn More | Not Started |                   |
+| 61     | RESPONSIVE WEB DESIGN FUNDAMENTALS                            | 4.4/5  | Gymnasium | Yes         | FREE  | Introduction to responsive web design strategies and how to implement those strategies through HTML, CSS and JavaScript               | Learn More | Not Started |                   |
+| 62     | CREATING A WORDPRESS THEME                                    | 4.3/5  | Gymnasium | Yes         | FREE  | HTML/CSS design into a website that takes advantage of WordPress content management features including posts, pages, and plugins.     | Learn More | Not Started |                   |
